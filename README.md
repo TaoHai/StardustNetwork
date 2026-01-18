@@ -149,8 +149,6 @@ We acknowledge the significant challenges ahead, which also define the immense o
 
 **Document Version**: v0.1-Condensed Draft (English)
 **Last Updated**: 2026-01-18 Beijing
-**License**: CC-BY-SA 4.0
-**Project Repository**: `github.com/StardustNetwork` (Coming Soon)
 
 ---
 
@@ -308,5 +306,5 @@ We acknowledge the significant challenges ahead, which also define the immense o
 
 **文档版本**: v0.1-精炼草案（中文）
 **更新日期**: 2026年1月18日 北京  
-**许可协议**: CC-BY-SA 4.0  
-**项目仓库**: `github.com/StardustNetwork` (筹备中)
+
+---
